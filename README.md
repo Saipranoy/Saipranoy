@@ -23,7 +23,7 @@ I'm Sai, a self-taught data analyst from India, currently in UK.
 
 🙌🏻 **Connect with Me**🙌🏻
 - [LinkedIn](https://www.linkedin.com/in/sai-praneeth-s-804642159/)
-- [Medeium](https://medium.com/@saipraneeth_10065)
+- [Medium](https://medium.com/@saipraneeth_10065)
 - [Twitter](https://twitter.com/pranoy32691475)
 - [Instagram](https://www.instagram.com/sai_data/)
 
